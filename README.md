@@ -9,9 +9,4 @@ CSV first column is name and second is url.
 As a user I want to see the raw html in console like this
  
 ./download.py -i urls.csv
-HTML “neti”
-<raw html>
-HTML “google”
-<raw html>
- 
-Following libraries are allowed to use if needed: requests, click.
+
